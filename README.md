@@ -8,7 +8,7 @@ Use LLMs to answer difficult science questions
 ## Competition Introduction
 Inspired by the OpenBookQA dataset, this competition challenges participants to answer difficult science-based questions written by a Large Language Model.
 - Type: NLP
-- Recommended Model: 
+- Recommended Model: BERT, LLAMA
 - Evaluation Metrics:  Mean Average Precision @ 3
 - Baseline: 
 
