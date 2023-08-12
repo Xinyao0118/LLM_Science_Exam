@@ -14,7 +14,7 @@ Inspired by the OpenBookQA dataset, this competition challenges participants to 
 
 ## Data Introduction
 
-### **train.csv** - a set of 200 questions with the answer column \
+### **train.csv** - a set of 200 questions with the answer column 
 
 One row example: \
 __propmt__: What is the most popular explanation for the shower-curtain effect? \
